@@ -1,5 +1,4 @@
-vue
-CopyEdit
+
 <template>
   <div>
     <ProductFilters />
