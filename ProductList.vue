@@ -1,5 +1,4 @@
-vue
-CopyEdit
+
 <template>
   <div class="product-list">
     <ProductCard v-for="product in filteredProducts" :key="product.id" :product="product" />
