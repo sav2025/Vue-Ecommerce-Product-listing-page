@@ -1,6 +1,5 @@
 ProductFilters.vue
-vue. vue
-CopyEdit
+
 <template>
   <div class="product-filters">
     <input v-model="searchQuery" placeholder="Search products..." @input="applyFilters" />
