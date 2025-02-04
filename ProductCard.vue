@@ -1,5 +1,4 @@
-vue
-CopyEdit
+
 <template>
   <div class="product-card">
     <img :src="product.image" alt="product.name" />
